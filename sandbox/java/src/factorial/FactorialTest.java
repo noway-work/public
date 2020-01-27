@@ -9,6 +9,7 @@ public class FactorialTest {
 		try {
 			inChar = System.in.read();
 			System.out.println("You entered ");
+			System.out.println("updated ");
 			System.out.println(inChar);
 		} catch (IOException ioe) {
 			
